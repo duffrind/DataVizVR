@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0208DAE3-A099-33CC-2EEF-BC6CA21A3636}") = "DataViz", "Assembly-CSharp.csproj", "{87AF95DA-7415-1D0C-8D30-221D8905D2C7}"
+EndProject
+Project("{0208DAE3-A099-33CC-2EEF-BC6CA21A3636}") = "DataViz", "Assembly-CSharp-Editor.csproj", "{E26DF3FE-BC18-4E40-85D2-7D5994AF6209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AF95DA-7415-1D0C-8D30-221D8905D2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AF95DA-7415-1D0C-8D30-221D8905D2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AF95DA-7415-1D0C-8D30-221D8905D2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AF95DA-7415-1D0C-8D30-221D8905D2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26DF3FE-BC18-4E40-85D2-7D5994AF6209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26DF3FE-BC18-4E40-85D2-7D5994AF6209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26DF3FE-BC18-4E40-85D2-7D5994AF6209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26DF3FE-BC18-4E40-85D2-7D5994AF6209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
